@@ -65,9 +65,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [your_project_name] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[vet-clinic]** In this project, a relational database is used to create the data structure for a vet clinic. it is started with one table and step by step, the complete database with data about animals, animals' owners, clinic employees, and visits created.
+> **[vet-clinic]** In this project, a relational database is used to create the data structure for a vet clinic. it is started with one table and step by step, the complete database with data about animals, animals' owners, clinic employees, and visits created.
 
 ## 🛠 Built With <a name="built-with"></a>
 
