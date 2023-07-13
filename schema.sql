@@ -1,5 +1,5 @@
-/* Database schema to keep the structure of entire database. */
+/* Database schema to keep the structure of the entire database. */
 
-CREATE TABLE animals (
-    name varchar(100)
-);
+-- Create the vet_clinic database
+CREATE DATABASE vet_clinic;
+
