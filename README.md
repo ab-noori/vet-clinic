@@ -258,13 +258,15 @@ I would like to thank...
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-- **How to make it mobile friendly?**
+- **How to optimize database performance?**
 
-  - Put a viewport tag in the header
+  - Use indexes on frequently queried columns to improve search speed.
+  - Normalize the database structure to minimize data redundancy and improve data integrity.
 
-- **How to design the site?**
+- **How to ensure database security?**
 
-  - Draw a mockup before starting to code
+  - Implement proper authentication and authorization mechanisms to control access to the database.
+  - Regularly update and patch the database software to address security vulnerabilities.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
