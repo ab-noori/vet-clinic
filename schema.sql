@@ -69,3 +69,6 @@ CREATE INDEX ON visits (animal_id);
 
 -- Rename date_of_visit
 ALTER TABLE visits RENAME COLUMN visit_date TO date_of_visit;
+
+-- Create index on vet_id
+CREATE INDEX vet_id_index ON visits (vet_id);
