@@ -61,4 +61,8 @@ CREATE TABLE visits (
   PRIMARY KEY (animal_id, vet_id, visit_date)
 );
 
+-- Rename visit_date column
 ALTER TABLE visits RENAME COLUMN visit_date TO date_of_visit;
+
+-- Create Index for vet_id
+CREATE INDEX vet_id_index ON visits (vet_id);
