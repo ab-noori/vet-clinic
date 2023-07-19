@@ -17,6 +17,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Schema Diagram](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -71,6 +72,16 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - **[query and update animals table]**
 - **[query multiple tables]**
 - **[add 'join table' for visits]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Schema Diagram <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](<replace-with-your-deployment-URL>)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
