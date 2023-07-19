@@ -79,8 +79,6 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ## 🚀 Schema Diagram <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
 ![vet_clinic_schema_diagram](https://github.com/ab-noori/vet-clinic/assets/111179533/449c6559-45ef-41a2-9dd8-b294f8a3b826)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
