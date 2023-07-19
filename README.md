@@ -81,7 +81,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](<replace-with-your-deployment-URL>)
+- [Live Demo Link](https://github.com/ab-noori/vet-clinic/blob/dev/vet_clinic_schema_diagram.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
